@@ -89,7 +89,7 @@ namespace System.Windows.Controls
         /// <remarks>
         /// This method is also used indirectly from the operator overrides.
         /// </remarks>
-        /// <param name="obj">ValidationResult to be compared against this ValidationRule</param>
+        /// <param name="obj">ValidationResult to be compared against this ValidationResult</param>
         /// <returns>true if obj is ValidationResult and has the same values</returns>
         public override bool Equals(object obj)
         {
